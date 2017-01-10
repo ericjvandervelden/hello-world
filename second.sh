@@ -2,3 +2,4 @@
 echo "Bar"
 echo
 echo "Foo"
+echo "In hello-world"
