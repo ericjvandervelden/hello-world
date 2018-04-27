@@ -1,1 +1,2 @@
 echo "sixth"
+echo "foo" 
